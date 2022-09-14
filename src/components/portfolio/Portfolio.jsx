@@ -37,7 +37,7 @@ const data = [
     image: IMG4,
     title: 'Classy Portfolio Website',
     github: 'https://github.com/Jim-devENG/portfolio',
-    demo: 'https://shiny-marshmallow-16dd78.netlify.app/'
+    demo: 'https://personalportfolio-iota.vercel.app/'
   },
 ]
 
